@@ -1,0 +1,12 @@
+{
+  "name": "clase_calculadora",
+  "version": "1.0.0",
+  "main": "division.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

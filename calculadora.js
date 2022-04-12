@@ -1,0 +1,11 @@
+const moduloSumar = require ("./sumar")
+const moduloRestar = require("./restar")
+const moduloMultiplicar = require ("./multiplicar")
+const moduloDividir = require ("./dividir")
+
+console.log(moduloSumar(25,559))
+console.log(moduloRestar(42,0))
+console.log(moduloMultiplicar(200,00))
+console.log(moduloDividir(252,205))
+console.log(moduloDividir(252,0))
+console.log(moduloMultiplicar(22,011))
